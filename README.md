@@ -19,6 +19,8 @@ I discovered the data included every green patch (highway medians, private lawns
 ## The Finding
 Only **17.5%** of residents have practical park access, revealing significant urban inequality. This result starkly contrasts with the 78.8% access suggested by a naive analysis of the raw data, demonstrating the critical importance of methodological rigor in urban equity analysis.
 
+![Final Map of Green Space Access in Brussels](brussels-green_spaces_final_map.png)
+
 ## Technical Implementation
 ```python
 # Brussels Green Space Access - Analysis Validation
