@@ -16,8 +16,17 @@ I discovered the data included every green patch (highway medians, private lawns
 
 3. **Validation:** Prior to doing the network analysis, I performed an Euclidean distance analysis on the UrbIS layer in its original form, and the percentage was much higher than expected at 78.8%. The Euclidean distance approach, paired with the unfiltered indiscriminate official UrbIS green space layer can create a misleading image of green space access in Brussels.
 
+The main criteria I used for determining what constitutes quality access to green space were that the size of the public green area should be 1ha or more, and that it should be within 400 meters of walking distance (in terms of service area, not simplistic Euclidean distance). These criteria were determined through my reading of peer-reviewed academic research conducted by Belgian urban researchers.
+
+**Sources**:
+Phillips, A., Plastara, D., Khan, A. Z., & Canters, F. (2023). Integrating public perceptions of proximity and quality in the modelling of urban green space access. Landscape and Urban Planning, 240, 104875. https://doi.org/10.1016/j.landurbplan.2023.104875
+
+Stessens, P., Khan, A. Z., Huysmans, M., & Canters, F. (2017). Analysing urban green space accessibility and quality: A GIS-based model as spatial decision support for urban ecosystem services in Brussels. Ecosystem Services, 28, 328–340. https://doi.org/10.1016/j.ecoser.2017.10.016
+
+
 ## The Finding
 Only **17.5%** of residents have practical park access, revealing significant urban inequality. This result starkly contrasts with the 78.8% access suggested by a naive analysis of the raw data, demonstrating the critical importance of methodological rigor in urban equity analysis.
+
 
 ![Final Map of Green Space Access in Brussels](brussels-green_spaces_final_map.png)
 
